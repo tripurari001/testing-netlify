@@ -11,7 +11,7 @@ collections:
   - name: 'hero'
     label: 'Hero Section'
     folder: 'content/hero'
-    create: false
+    create: true
     slug: 'index'
     media_folder: ''
     public_folder: ''
