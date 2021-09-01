@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tripurari001/tripurari001.github.io
+  repo: tripurari001/testing-netlify
   site_domain: frosty-payne-06cd67.netlify.com
   branch: master # Branch to update (optional; defaults to master)
 
