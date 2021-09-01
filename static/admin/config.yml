@@ -2,7 +2,7 @@ backend:
   name: github
   repo: tripurari001/tripurari001.github.io
   site_domain: frosty-payne-06cd67.netlify.com
-  branch: main # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 
 media_folder: static/images/uploads
 public_folder: /images/uploads
